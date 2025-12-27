@@ -25,9 +25,9 @@ No personal data is sold or shared.
 
 ## 📜 Terms & Privacy
 - **Terms of Service:**  
-  https://github.com/Programmer-XD/AnimeSlayer 
+  https://Programmer-XD.github.io/AnimeSlayer 
 - **Privacy Policy:**  
-  https://github.com/Programmer-XD/AnimeSlayer 
+  https://Programmer-XD.github.io/AnimeSlayer 
 
 ---
 
