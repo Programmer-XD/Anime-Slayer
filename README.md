@@ -1,4 +1,4 @@
-# ⚔️ Anime Slayer
+# 𝗔𝗡𝗜𝗠𝚵 | 𝗦𝗟𝗔𝗬𝚵𝗥
 
 Anime Slayer is an anime-themed RPG Discord bot where users battle and slay powerful anime characters, level up, collect gear, and rise through the ranks.
 
@@ -51,4 +51,4 @@ For support, suggestions, or bug reports:
 
 ---
 
-© 2025 Anime Slayer
+© 2025 𝗔𝗡𝗜𝗠𝚵 | 𝗦𝗟𝗔𝗬𝚵𝗥
